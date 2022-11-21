@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Best-songs>
+    <song>
+        <title>Party in the USA</title>
+        <artist>Miley Cyrus</artist>
+        <genre>Pop</genre>
+        <country>New York</country>
+    </song>
+    <song>
+        <title>Baby</title>
+        <artist>Justin Bieber</artist>
+        <genre>Jazz</genre>
+        <country>Canada</country>
+    </song>
+    <song>
+        <title>Empire state of Mind</title>
+        <artist>Alicia Keys</artist>
+        <genre>Country</genre>
+        <country>India</country>
+    </song>
+    <song>
+        <title>Shake it up</title>
+        <artist>Tylor Swift</artist>
+        <genre>Hip Hop</genre>
+        <country>Netherlands</country>
+    </song>
+    <song>
+        <title>Dancing in the Moonlight</title>
+        <artist>Granada</artist>
+        <genre>Rap</genre>
+        <country>China</country>
+    </song>
+    <song>
+        <title>Happy Birthday</title>
+        <artist>Maroon 5</artist>
+        <genre>Pop</genre>
+        <country>Thailand</country>
+    </song>
+</Best-songs>
