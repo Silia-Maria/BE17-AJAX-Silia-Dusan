@@ -21,12 +21,13 @@
 
         function showGreeting() {
             let xhttp = new XMLHttpRequest();
+            xhttp.open("GET", "text.txt", true);
             xhttp.onload = function() {
                 if (this.status == 200) {
                     document.getElementById("content").innerHTML = this.responseText;
                 }
             };
-            xhttp.open("GET", "text.txt", true);
+
             xhttp.send();
         }
     </script>
